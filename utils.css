@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.wrapper{
+    margin-top: 6rem;
+}
+
+.items-center{
+    text-align: center;
+}
+
+.calc{
+    text-align: center;
+
+}
+
+.mar-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
